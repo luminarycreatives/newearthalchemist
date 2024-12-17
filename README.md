@@ -1,4 +1,4 @@
-# **README: Managing Changes Locally and Deploying via Hostinger**
+# **README: Luminary Creatives Workflow**
 
 This guide walks through the process of working with GitHub branches, managing local changes to your WordPress theme, and deploying updates via **Hostinger**.
 
